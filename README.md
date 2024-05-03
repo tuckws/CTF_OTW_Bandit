@@ -1,7 +1,7 @@
 # CTF_OTW_Bandit
 
 ## Purpose
-OverTheWire provides excellent Capture-the_flag exercises in various cyber domains of knowledge. The Bandit Series is focused on Linux operations to complete the challenges.
+OverTheWire provides excellent Capture-the-Flag (CTF) exercises in various cyber domains of knowledge. The Bandit Series is focused on developing knowldge of Linux in order to complete the challenges outlined below.
 
 ## Skills Learned
 -Linux commands, file operations, navigation, cron functions, and permissions management.
