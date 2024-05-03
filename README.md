@@ -4,10 +4,11 @@
 OverTheWire provides excellent Capture-the-Flag (CTF) exercises in various cyber domains of knowledge. The Bandit Series is focused on developing knowledge of Linux in order to complete the challenges outlined below.
 
 ## Skills Learned
--Linux commands, file operations, navigation, cron functions, and permissions management.
--Combining and piping functions in the command line. 
--Linux networking to include use of `nmap`, `netcat`, and `ssh`.
--Git functions in Linux. 
+- Linux commands, file operations, navigation, cron functions, and permissions management.
+- Combining and piping functions in the command line.
+- Bash scripting.
+- Linux networking to include use of `nmap`, `netcat`, and `ssh`.
+- Git functions in Linux. 
 
 ## Steps
 
