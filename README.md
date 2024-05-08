@@ -20,6 +20,7 @@ SSH Information
 	Port: 2220
 	`ssh user@host -p <port>`
 My personal directory on bandit.labs.overthewire.org: `/tmp/tuktuk92`
+
 ##### bandit0
 bandit0
 ##### bandit0 to 1
