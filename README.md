@@ -5,7 +5,7 @@ OverTheWire provides excellent Capture-the-Flag (CTF) exercises in various cyber
 
 #### Skills Learned
 - Linux commands, file operations, navigation, cron functions, and permissions management.
-- Bash scripting.
+- BASH scripting.
 - Linux networking to include use of `nmap`, `netcat`, and `ssh`.
 - Git functions in Linux. 
 
