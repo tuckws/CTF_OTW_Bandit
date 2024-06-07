@@ -181,5 +181,4 @@ YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
 
 For this level, used `git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo` had to add the port 2220 in order to access the folder through ssh with the right permissions. 
 AVanL161y9rsbcJIsFHuw35rjaOM19nR
-#### bandit28 to 29
->There is a git repository at `ssh://bandit28-git@localhost/home/bandit28-git/repo` via the port `2220`. The password for the user `bandit28-git` is the same as for the user `bandit28`. Clone the repository and find the password for the next level.
+
