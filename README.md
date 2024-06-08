@@ -7,7 +7,7 @@
 - Linux commands, file operations, navigation, cron functions, and permissions management.
 - BASH scripting.
 - Linux networking to include use of `nmap`, `netcat`, and `ssh`.
-- Git functions in Linux. 
+- 'git' functions in Linux. 
 
 #### Steps
 
